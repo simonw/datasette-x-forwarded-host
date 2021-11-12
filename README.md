@@ -21,7 +21,7 @@ This helps Datasette generate links to new pages that work when hosted behind a 
 
 Only use this plugin in deployment environmens where you know the `x-forwarded-host` header can be trusted!
 
-This has been tested on GitHub Codespaces.
+This has been tested on [GitHub Codespaces](https://github.com/features/codespaces) and [GitPod](https://gitpod.io/).
 
 ## Development
 
